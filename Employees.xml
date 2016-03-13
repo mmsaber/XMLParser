@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Employee>
+   		<id>1</id>
+        <age>29</age>
+        <name>Mohamed</name>
+        <salary>1000</salary>
+		<grade>2</grade>
+    </Employee>
+    <Employee>
+   		 <id>2</id>
+        <age>29</age>
+        <name>Mahmoud</name>
+        <salary>2000</salary>
+		<grade>3</grade>
+    </Employee>
+    <Employee>
+   		 <id>3</id>
+        <age>29</age>
+        <name>Saber</name>
+        <salary>4000</salary>
+		<grade>1</grade>
+    </Employee>
+</Employees>
