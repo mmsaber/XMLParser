@@ -1,0 +1,8 @@
+1- install mysql
+2- install eclipse
+3- create database using "employees.sql" file just import this file
+4- import XMLParser.zip file in eclipse
+/////////////////////////////////////////////////////////////////////
+I have used 1 library in this project you don't need to download I have attached it
+
+**mysql-connector-java
